@@ -9,8 +9,12 @@
 <<<<<<< HEAD
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
 =======
+<<<<<<< HEAD
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+=======
     <option name="projectConfiguration" value="pytest" />
     <option name="PROJECT_TEST_RUNNER" value="pytest" />
 >>>>>>> d15b63a493464ab4ab47b30e47b2d5aa5c978531
+>>>>>>> origin/master
   </component>
 </module>
