@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.1 (~/anaconda/bin/python)" project-jdk-type="Python SDK" />
+>>>>>>> d15b63a493464ab4ab47b30e47b2d5aa5c978531
 </project>
