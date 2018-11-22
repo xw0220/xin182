@@ -1,2 +1,7 @@
 WHQ(stupid)
 whqsdab
+
+
+a=王海清
+print(type(a))
+print("王海清是大美女")
